@@ -1,3 +1,6 @@
+Given a 20 x 10 matrix with many nulls iteratively remove
+columns and rows mainting the maximum number of cells
+
 Remove nulls while retaining the most data possible
 
   Three solutions
@@ -13,9 +16,6 @@ Remove nulls while retaining the most data possible
      c. R solution by
         Calum You profile
         https://stackoverflow.com/users/7028459/calum-you
-
-Given a 20 x 10 matrix with many nulls iteratively remove
-columns and rows mainting the maximum number of cells
 
 github
 https://tinyurl.com/yxs56kff
@@ -550,7 +550,3 @@ libname xpt clear;
 10  5  8  8  9  9  0  4  7
 
 
-
-
-                                                                                                       
-                                                                                                                                       
